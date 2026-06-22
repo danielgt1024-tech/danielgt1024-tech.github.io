@@ -1,2 +1,2 @@
 # danielgt1024-tech.github.io
-my page!
+this: is a THING that is COOL
